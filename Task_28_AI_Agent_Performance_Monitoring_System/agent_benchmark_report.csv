@@ -1,0 +1,13 @@
+rank,agent_name,agent_domain,total_conversations,agent_health_score,efficiency_score,customer_experience_score,reliability_score,avg_satisfaction,resolution_rate,escalation_rate,avg_cost_per_conv,avg_tokens,avg_consistency,repetitive_rate,performance_status,recommended_action
+1,SupportBot-v4,Customer Support,1189,96.6,93.0,99.6,96.3,4.59,89.57,3.7,0.03,404.35,92.05,2.27,Top Performer,Expand deployment across more departments; use as training benchmark.
+2,SchedulerBot,Appointment Scheduling,896,93.5,95.5,94.7,89.9,4.52,88.62,4.69,0.03,394.05,91.32,2.57,Top Performer,Expand deployment across more departments; use as training benchmark.
+3,KnowledgeFinder-X,Internal Knowledge Search,877,92.2,85.5,94.5,95.9,4.46,91.22,3.53,0.03,436.06,90.85,2.96,Top Performer,Expand deployment across more departments; use as training benchmark.
+4,SalesAssist-Pro,Sales Assistance,1033,80.2,74.2,84.6,80.2,4.34,87.51,5.71,0.03,446.84,89.74,3.68,Solid Performer,Optimize prompt length / token usage to reduce cost per conversation.
+5,OmniAssist-2,Customer Support,1173,76.6,73.5,78.9,76.8,4.24,87.72,5.97,0.03,454.71,88.76,5.12,Solid Performer,Optimize prompt length / token usage to reduce cost per conversation.
+6,HRQueryBot,HR Queries,799,73.9,85.7,69.8,67.4,4.09,85.73,7.63,0.03,407.77,88.14,5.26,Solid Performer,Improve response consistency via workflow redesign and QA sampling.
+7,HR-FAQ-Agent,HR Queries,798,56.5,58.7,57.0,53.7,3.9,84.09,9.65,0.03,483.18,86.25,6.77,Needs Improvement,Improve response consistency via workflow redesign and QA sampling.
+8,KnowledgeFinder-Lite,Internal Knowledge Search,726,49.5,59.4,42.9,48.4,3.61,84.85,9.09,0.03,472.72,83.94,11.16,Underperforming,Retrain on domain-specific queries; review escalation triggers.
+9,SupportBot-v3,Customer Support,796,37.2,33.9,37.5,40.0,3.64,82.16,11.56,0.04,532.67,84.46,11.93,Underperforming,Optimize prompt length / token usage to reduce cost per conversation.
+10,SalesAssist-Lite,Sales Assistance,696,23.4,41.5,14.5,17.1,3.22,79.45,14.22,0.04,505.49,80.91,14.08,Underperforming,Retrain on domain-specific queries; review escalation triggers.
+11,ITHelpDesk-AI,IT Helpdesk,508,20.1,19.5,22.2,18.0,3.43,78.35,15.16,0.04,550.46,82.35,11.81,Underperforming,Improve response consistency via workflow redesign and QA sampling.
+12,IT-Legacy-Bot,IT Helpdesk,509,0.0,0.0,0.0,0.0,3.0,76.82,16.9,0.04,597.72,78.99,14.73,Underperforming,Optimize prompt length / token usage to reduce cost per conversation.
